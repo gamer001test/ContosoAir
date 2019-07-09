@@ -1,5 +1,7 @@
 
 
+[![Build Status](https://dev.azure.com/deravanesiang/deravanesiang/_apis/build/status/gamer001test.ContosoAir?branchName=master)](https://dev.azure.com/deravanesiang/deravanesiang/_build/latest?definitionId=1&branchName=master)
+
 
 # Microsoft.Github CI Demo
 
